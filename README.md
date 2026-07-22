@@ -15,6 +15,13 @@ Platform pembelajaran daring sederhana dengan dua peran (Dosen &amp; Mahasiswa),
 <img src="https://img.shields.io/badge/status-development-yellow" alt="Status">
 </p>
 
+<p>Anggota Kelompok:<br>
+- Wendra Ardi Kusuma 141241013<br>
+- Faiq Damar Pratama 141241014<br>
+- Novian Faiq Firmansyah 141241023<br>
+- Hilmy Malik Hazim 141241027<br>
+- Nestyana Widodo Putri 141241034</p>
+
 ---
 
 ## Daftar Isi
@@ -700,7 +707,7 @@ Kontribusi sangat terbuka! Silakan buat *pull request* atau buka *issue* untuk m
 
 ## Lisensi
 
-Proyek ini menggunakan framework [Laravel](https://laravel.com) yang berlisensi [MIT](https://opensource.org/licenses/MIT). Sesuaikan bagian ini dengan lisensi proyek ELEAR Anda sendiri.
+Proyek ini menggunakan framework [Laravel](https://laravel.com) yang berlisensi [MIT](https://opensource.org/licenses/MIT).
 
 ---
 
